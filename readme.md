@@ -1,8 +1,9 @@
 ###Fundamentals
-Explain the concept of Go routines and channels. How do they enable concurrent programming?
-What is the difference between goroutines and threads?
-How does Go handle memory management?
-Explain the concept of interfaces in Go. How are they used for polymorphism?
+
+1. Explain the concept of Go routines and channels. How do they enable concurrent programming?
+2. What is the difference between goroutines and threads?
+3. How does Go handle memory management?
+4. Explain the concept of interfaces in Go. How are they used for polymorphism?
 What are the different data structures available in the Go standard library? (e.g., slices, maps, arrays)
 Explain the concept of pointers in Go. How are they used to modify values indirectly?
 What are the different types of control flow statements in Go? (e.g., if-else, for, switch)
